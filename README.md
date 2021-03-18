@@ -1,5 +1,5 @@
-# My Projects
+# My Learning Projects
 
-The following are the projects which I have done during my data science learning journey:
+Projects done as part of my data science learning:
 1. Wine quality prediction a classification problem
 2. Facebook data analysis using clustering technique
